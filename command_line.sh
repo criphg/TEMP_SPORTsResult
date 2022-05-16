@@ -1,0 +1,1 @@
+ sports.pl -i HS1_S1_L005_R1_001.fastq -p 4 -g Homo_sapiens/genome/hg38/genome -m Homo_sapiens/miRBase/21/miRBase_21-hsa -r Homo_sapiens/rRNAdb/human_rRNA -t Homo_sapiens/GtRNAdb/hg19/hg19-tRNAs -w Homo_sapiens/piRBase/piR_human -o RESULT1 -k -p 6
